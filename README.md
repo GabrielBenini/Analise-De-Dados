@@ -1,4 +1,4 @@
-# Analise De Dados
+# Data analysis
 
-Este projeto analisa a perda de clientes de uma empresa, e no final apos criado uma proposta de solucao aponta a diferenca que pode ser causada nessa perda de clientes atraves de graficos.
+This project analyzes the loss of customers in a company, and in the end, after creating a solution proposal, it points out the difference that can be caused in this loss of customers through graphs.
  
