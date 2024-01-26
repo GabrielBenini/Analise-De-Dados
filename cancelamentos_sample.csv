@@ -1,4 +1,4 @@
-CustomerID,idade,sexo,tempo_como_cliente,frequencia_uso,ligacoes_callcenter,dias_atraso,assinatura,duracao_contrato,total_gasto,meses_ultima_interacao,cancelou
+CustomerID,age,gender,time_as_customer,use_frequency,callcenter_connections,days_late,signature,contract_duration,total_spent,months_last_interaction,canceled
 349936.0,23.0,Male,13.0,22.0,2.0,1.0,Standard,Annual,909.58,23.0,0.0
 100634.0,49.0,Male,55.0,16.0,3.0,6.0,Premium,Monthly,207.0,29.0,1.0
 301263.0,30.0,Male,7.0,1.0,0.0,8.0,Basic,Annual,768.78,7.0,0.0
